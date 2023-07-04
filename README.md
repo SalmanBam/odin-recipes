@@ -1,0 +1,3 @@
+After learning the basics of HTML and Git...
+
+This is now my first project following the Odin Project curiculum.
